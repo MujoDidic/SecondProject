@@ -1,4 +1,4 @@
-# Secon dProject
+# Second Project
 Second Project
 
 Readme file edited
